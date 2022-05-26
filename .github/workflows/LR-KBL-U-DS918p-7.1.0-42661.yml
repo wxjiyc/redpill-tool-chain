@@ -3,14 +3,6 @@ name: 构建
 on:
   workflow_dispatch:
 
-  push:
-    branches:
-      - master
-    paths:
-      - "docker/**"
-      - "**.sh"
-      - "**.json"
-
 jobs:
   build:
     runs-on: ubuntu-latest
