@@ -1,0 +1,12 @@
+{
+    "extra_cmdline": {
+        "vid": "0x14cd",
+        "pid": "0x1212",
+        "sn": "2130SBRTNCEXK",
+        "mac1": "001132EF9131",
+        "mac2": "001132EF9132"
+    },
+    "synoinfo": {},
+    "ramdisk_copy": {},
+    "extensions": []
+}
