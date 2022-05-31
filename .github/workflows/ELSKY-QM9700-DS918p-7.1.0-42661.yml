@@ -1,4 +1,4 @@
-name: ELSKY-QM9700-DS920p-7.1.0-42661
+name: ELSKY-QM9700-DS918p-7.1.0-42661
 
 on:
   workflow_dispatch:
@@ -11,7 +11,7 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - platform: ds920p
+          - platform: ds918p
             version: 7.1.0-42661
 
     steps:
