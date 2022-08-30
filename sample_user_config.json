@@ -2,11 +2,15 @@
     "extra_cmdline": {
         "vid": "0x14cd",
         "pid": "0x1212",
-        "sn": "18C0PDN500000",
-        "mac1": "001132123456",
-        "mac2": "001132123457"
+        "sn": "18C0PDN402002",
+        "mac1": "001132A144DB",
+        "mac2": "001132A144DC"
     },
-    "synoinfo": {},
+    "synoinfo": {
+        "maxdisks" : "2",
+        "internalportcfg" : "0x2",
+        "esataportcfg" : "0x1"
+    },
     "ramdisk_copy": {},
     "extensions": []
 }
