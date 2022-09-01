@@ -3,10 +3,13 @@
         "vid": "0x14cd",
         "pid": "0x1212",
         "sn": "18C0PDN402002",
+        "netif_num": 3,
         "mac1": "001132A144DB",
-        "mac2": "001132A144DC"
+        "mac2": "001132A144DC",
+        "mac3": "001132A144DD"
     },
     "synoinfo": {
+        "maxlanport": "3",
         "maxdisks" : "2",
         "internalportcfg" : "0x2",
         "esataportcfg" : "0x1"
