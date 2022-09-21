@@ -2,14 +2,11 @@
     "extra_cmdline": {
         "vid": "0x14cd",
         "pid": "0x1212",
-        "sn": "1940PDN802410",
-        "netif_num": 3,
-        "mac1": "001132AE62BB",
-        "mac2": "001132AE62BC",
-        "mac3": "001132AE62BD"
+        "sn": "18C0PDN402002",
+        "mac1": "001132A144DB",
+        "mac2": "001132A144DC"
     },
     "synoinfo": {
-        "maxlanport": "3",
         "maxdisks" : "2",
         "internalportcfg" : "0x1",
         "esataportcfg" : "0x2"
